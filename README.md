@@ -23,16 +23,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este E-book de 10 paginas te mostrara a evolução das inteligençias artificiais generativas e como ela moldarão nosso futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat-gpt
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+utilizei o chatgpt para refinar minha pesquisa e me ajudar e estruturar o conteudo na criação do E-book
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+"Estamos apenas começando a entender o potencial das inteligências artificiais generativas. Elas não apenas mudam a forma como interagimos com a tecnologia, mas redefinem a própria criatividade humana. À medida que exploramos este novo mundo, é crucial adotar uma abordagem ética e equilibrada para garantir que essas inovações beneficiem a todos."
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
